@@ -1,9 +1,9 @@
 import requests
 import sys
  
-id = "229470654"
+id = "id"
  
-token = "532491620:AAG00ZgtTxBjLnMwFEVHbAQRmhDnh6uIAuI"
+token = "api"
  
 url = "https://api.telegram.org/bot" + token + "/sendMessage"
 params = {
